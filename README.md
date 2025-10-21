@@ -20,5 +20,6 @@ The app uses the built-in `ACTION_BATTERY_CHANGED` intent, which is a **sticky b
 - The status message is then displayed on a `TextView` in the **main activity**.
 
 ## Authors
-- CHAOUI RAYEN DJILLALI.
-- BRAHIM KHALIL.
+- Hammadi Aissa
+- Abdesselem Habib
+- Kaddour Abderrahmane
